@@ -50,6 +50,19 @@ With version control, it is possible to:
 - You can easily find out what you were doing last year if you went under inspection
 - All changes and updates go to one place for easy access
 
+## Purpose of the following Git Commands
+
+- `git init`: Creates a new git repository
+- `git status`: shows the modified files and waits for your next commit
+- `git add`: stages the files for the next commit
+- `git commit`: commits those changes to the files
+- `git push`: it pushes the changes from the local repository to the remote repository
+- `git pull`: it pulls and downloads from whatever the remote repository has into the local repository
+- `git log`: lists all the commits made, who made it and when it was made
+- `git branch`: lists all the branches in the repository
+- `git merge`: it merges the branch your working on the another branch
+- `git checkout`: it's used to switch between branches
+
 ## Author
 
 Mustafa Mohamed
