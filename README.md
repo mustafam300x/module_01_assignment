@@ -29,6 +29,13 @@ directory)
 no changes added to commit (use "git add" and/or "git commit
 -a")
 
+## Purpose of the following Commands
+
+- `mkdir`: its purpose is to make new directories in the system
+- `cd`: its purpose is to change you to your desired directory.
+- `code`: you use this command to open to your code editor through the git bash terminal
+- `ls`: allows you to see all the files in your current directory
+
 ## Author
 
 Mustafa Mohamed
