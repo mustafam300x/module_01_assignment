@@ -65,6 +65,15 @@ With version control, it is possible to:
 - `git merge`: it merges the branch your working on the another branch
 - `git checkout`: it's used to switch between branches
 
+## My Unique Touch
+
+There are things that set me apart from others:
+
+- I am self-motivated and committed to become a software engineer
+- I built a game before and uploaded online
+- I'm an incredible fast learner
+- I'm also fluent in two languages
+
 ## Author
 
 Mustafa Mohamed
